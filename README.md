@@ -45,3 +45,5 @@ https://www.datacamp.com/blog/clustering-in-machine-learning-5-essential-cluster
 OpenAI. (2024, March 9). I want to make a data science/ai/ml project on a movie recommendation system. Give me some research questions for that? [Response to user query]. OpenAI ChatGPT.
 
 https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a 
+
+Note: We were unable to include the TMDB credits dataset, the 25M movies dataset, and the 25M ratings dataset due to their large file sizes.
